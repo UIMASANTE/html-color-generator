@@ -1,0 +1,12 @@
+---
+language: staticfile
+applications:
+- buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
+#  host: helloworld-xav-${random-word}
+  host: helloworld-xav-001
+  name: helloworld.html
+  memory: 32M
+  disk_quota: 32M
+  stack: cflinuxfs2
+#services:
+#- todo-mongo-db
