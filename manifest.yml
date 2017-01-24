@@ -3,8 +3,8 @@ language: staticfile
 applications:
 - buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
 #  host: helloworld-xav-${random-word}
-  host: helloworld-xav-001
-  name: helloworld.html
+  host: color-generator
+  name: colorGenerator
   memory: 32M
   disk_quota: 32M
   stack: cflinuxfs2
