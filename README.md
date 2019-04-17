@@ -6,5 +6,5 @@
 
 ## the web application
 
-[Launch the app!] (https://color-generator.mybluemix.net/)
+[Launch the app : https://color-generator.mybluemix.net/](https://color-generator.mybluemix.net/)
 
